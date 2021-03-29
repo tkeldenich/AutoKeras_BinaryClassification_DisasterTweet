@@ -86,7 +86,7 @@ On **importe** ensuite la **librairie**.
 import autokeras as ak
 ```
 
-La **partie intéressante** commence. On veut faire de la **classification de texte**, on utilise donc la fonction *TextClassifier()* de **AutoKeras**.
+La **partie intéressante** commence ! On veut faire de la **classification de texte**, on utilise donc la fonction *TextClassifier()* de **AutoKeras**.
 
 Cette fonction possède un **paramètre** principale : **max_trials**.
 
