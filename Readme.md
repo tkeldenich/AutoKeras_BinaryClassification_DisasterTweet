@@ -72,7 +72,7 @@ X_train
 
 ### **Modèle AutoKeras**
 
-Pour **utilier AutoKeras** la première chose à faire est d'**installer la librairie** sur notre serveur :
+Pour **utiliser AutoKeras** la première chose à faire est d'**installer la librairie** sur notre serveur :
 
 
 ```python
